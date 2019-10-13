@@ -1,4 +1,4 @@
-# HACKUPC -2019 Flamers-Shield
+# Flamers-Shield (Hack-UPC 2019)
 
 ## Inspiration
 A large proportion of comments posted on the internet tend to be positive and can be described as constructive, but there is a small proportion of them could be considered toxic. And this is a severe problem because being on the internet could help anonymity, and that helps people be even more toxic than usual. 
